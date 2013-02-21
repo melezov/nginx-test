@@ -1,0 +1,5 @@
+85.10.50.78 nginx-test.com
+85.10.50.79 auth.nginx-test.com
+
+127.0.0.1 local-nginx-test-runner
+10.5.17.1 remote-nginx-test-runner
